@@ -1,6 +1,8 @@
 # Nano Banana Pro - Image Text Translator
 
-이미지 내 텍스트를 한국어로 번역한 새 이미지를 생성합니다. (Gemini 3 Pro Image Preview 사용)
+https://github.com/user-attachments/assets/02514f41-7ad2-489d-a3ec-46004a1c12e8
+
+Nano Banana Pro를 사용하여 이미지 내 텍스트를 한국어로 번역한 새 이미지를 생성합니다. 
 
 ## Quick Start
 
